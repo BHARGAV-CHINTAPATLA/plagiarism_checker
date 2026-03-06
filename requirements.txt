@@ -1,0 +1,9 @@
+streamlit
+pandas
+nltk
+scikit-learn
+docx2txt
+PyPDF2
+plotly
+textrazor
+python-dotenv
